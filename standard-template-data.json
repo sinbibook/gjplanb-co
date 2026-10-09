@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.1.0",
-    "generatedAt": "2026-10-09T13:27:33.893092943Z",
+    "version": "1.2.0",
+    "generatedAt": "2026-10-09T13:31:31.162051461Z",
     "templateType": "trip_f",
     "propertyId": "bc2ba32a-50b0-474f-b0e9-06ba038074de",
     "homepageId": "2065b950-5d22-452c-803c-36221a9c94ce"
@@ -2023,8 +2023,8 @@
                 "title": "",
                 "images": [
                   {
-                    "id": "ea7d260a-e22c-4317-b810-f9e884624d23",
-                    "url": "https://gjplanb.co.kr/assets/images/travel/top.webp",
+                    "id": "01a120dc-8e91-755a-a9d4-60dde7893dc6",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/2065b950-5d22-452c-803c-36221a9c94ce/nearby_attractions_hero/1791552686748-rqgpkaos12.jpg",
                     "sortOrder": 0,
                     "description": "",
                     "isSelected": true,
